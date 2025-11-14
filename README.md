@@ -7,9 +7,10 @@
 ## 快速上手
 ### 部署配置
 1. 进入仓库：
-   - 打开库 https://github.com/xiaoran67/zba
+   - 打开库 https://github.com/xiaoran077/
 2. 修改配置：
    - 订阅源（`config/subscribe.txt`）：支持txt和m3u地址作为订阅。
    - 源排序（`config/demo.txt`）：支持demo.txt模版来排序分组和频道名称
 3. 运行更新：
    - 首次执行工作流需要您手动触发，后续执行（默认UTC时间0:00，北京时间8:00）将自动触发。
+
