@@ -126,7 +126,7 @@
 
 
 ◆◆◆　https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt
-2026-02-17 19:10:42,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
+2026-02-17 23:11:21,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
 淘,http://114.254.33.207:18888/rtp/239.3.1.249:8001
 淘,http://115.171.80.79:1688/rtp/225.1.8.211:8002
 淘,http://115.171.216.58:4000/rtp/225.1.8.211:8002
@@ -148,7 +148,7 @@
 []cinema,https://t.freetv.fun/live/cinema-4.m3u8
 []cinema,https://t.freetv.fun/live/cinema-5.m3u8
 cinema,https://t.freetv.fun/live/cinema-7.m3u8
-[]diaspora 24,https://t.freetv.fun/live/diaspora-24.m3u8
+diaspora 24,https://t.freetv.fun/live/diaspora-24.m3u8
 lgtv,https://t.freetv.fun/live/lgtv.m3u8
 abn africa (p),https://t.freetv.fun/live/abn-africa-480p.m3u8
 []sun tv,https://t.freetv.fun/live/sun-tv-1.m3u8
@@ -911,6 +911,7 @@ RTHK32 *sg,https://t.freetv.fun/live/rthk32-sg.m3u8
 tvb plus,https://t.freetv.fun/live/tvb-plus.php
 tvb plus,https://t.freetv.fun/live/tvb-plus-1.php
 tvb plus,https://t.freetv.fun/live/tvb-plus-2.m3u8
+[]etv plus,https://t.freetv.fun/live/etv-plus-1.m3u8
 tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou-1.m3u8
 tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou-2.m3u8
 tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
@@ -936,8 +937,9 @@ snap,https://t.freetv.fun/live/snap.m3u8
 []星空卫视,https://t.freetv.fun/live/xing-kong-wei-shi-1.m3u8
 星空国际,https://t.freetv.fun/live/xing-kong-guo-ji.m3u8
 环球电视,https://t.freetv.fun/live/huan-qiu-dian-shi.m3u8
-甄子丹电影,https://t.freetv.fun/live/zhen-zi-dan-dian-ying.php
-甄子丹电影,https://t.freetv.fun/live/zhen-zi-dan-dian-ying-2.m3u8
+[]甄子丹电影,https://t.freetv.fun/live/zhen-zi-dan-dian-ying.php
+[]甄子丹电影,https://t.freetv.fun/live/zhen-zi-dan-dian-ying-1.php
+[]甄子丹电影,https://t.freetv.fun/live/zhen-zi-dan-dian-ying-2.m3u8
 翡翠,https://t.freetv.fun/live/fei-cui.m3u8
 []翡翠,https://t.freetv.fun/live/fei-cui-1.php
 翡翠,https://t.freetv.fun/live/fei-cui-2.php
@@ -1024,7 +1026,6 @@ gtc punjabi,https://t.freetv.fun/live/gtc-punjabi.m3u8
 india tv,https://t.freetv.fun/live/india-tv-1.m3u8
 []kairali tv,https://t.freetv.fun/live/kairali-tv.m3u8
 rt india,https://t.freetv.fun/live/rt-india.m3u8
-[]mastiii,https://t.freetv.fun/live/mastiii.m3u8
 []munsif tv,https://t.freetv.fun/live/munsif-tv.m3u8
 []btb music,https://t.freetv.fun/live/btb-music.m3u8
 []ndtv india,https://t.freetv.fun/live/ndtv-india-1.m3u8
@@ -1073,11 +1074,11 @@ zee news,https://t.freetv.fun/live/zee-news.m3u8
 []cnn indonesia,https://t.freetv.fun/live/cnn-indonesia-3.m3u8
 []cnn indonesia,https://t.freetv.fun/live/cnn-indonesia-4.m3u8
 []印度尼西亚cnn indonesia,https://t.freetv.fun/live/yin-du-ni-xi-ya-cnn-indonesia.m3u8
+[]disney channel,https://t.freetv.fun/live/disney-channel-1.m3u8
 []galaxy,https://t.freetv.fun/live/galaxy.m3u8
 []galaxy,https://t.freetv.fun/live/galaxy-1.m3u8
 []metro tv,https://t.freetv.fun/live/metro-tv.m3u8
 []metro tv,https://t.freetv.fun/live/metro-tv-2.m3u8
-[]metro tv,https://t.freetv.fun/live/metro-tv-3.m3u8
 []saang tv,https://t.freetv.fun/live/saang-tv.m3u8
 tvri jakarta,https://t.freetv.fun/live/tvri-jakarta.m3u8
 []ช่อง trans tv,https://t.freetv.fun/live/ch-ng-trans-tv.m3u8
@@ -1181,7 +1182,6 @@ cgntv japan,https://t.freetv.fun/live/cgntv-japan-1.m3u8
 []nhk bs,https://t.freetv.fun/live/nhk-bs.m3u8
 []ebc general education,https://t.freetv.fun/live/ebc-general-education.m3u8
 []ช่อง nhk world tv,https://t.freetv.fun/live/ch-ng-nhk-world-tv.m3u8
-[]newflix,https://t.freetv.fun/live/newflix.m3u8
 []qvc japan,https://t.freetv.fun/live/qvc-japan.m3u8
 star channel,https://t.freetv.fun/live/star-channel-1.m3u8
 []music 1,https://t.freetv.fun/live/music-1.m3u8
@@ -1979,7 +1979,7 @@ teve 2,https://t.freetv.fun/live/teve-2-1.m3u8
 []itn,https://t.freetv.fun/live/itn-1.m3u8
 324 tv,https://t.freetv.fun/live/324-tv.m3u8
 tv4 (360p),https://t.freetv.fun/live/tv4-360p.m3u8
-tv4,https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+tv4,https://t.freetv.fun/live/tv4.m3u8
 tv4,https://t.freetv.fun/live/tv4-1.m3u8
 viasat kino comedy,https://t.freetv.fun/live/viasat-kino-comedy.m3u8
 []viasat sport,https://t.freetv.fun/live/viasat-sport.php
@@ -2082,7 +2082,6 @@ sbn全球财经,https://t.freetv.fun/live/sbnquan-qiu-cai-jing-5.m3u8
 []smithsonian channel pluto tv,https://t.freetv.fun/live/smithsonian-channel-pluto-tv-3.m3u8
 []gold star,https://t.freetv.fun/live/gold-star.m3u8
 tvbs-asia,https://t.freetv.fun/live/tvbs-asia.m3u8
-tvbs新闻,https://t.freetv.fun/live/tvbsxin-wen.m3u8
 tudn,https://t.freetv.fun/live/tudn.m3u8
 roll,https://t.freetv.fun/live/roll.m3u8
 滚动力rollor,https://t.freetv.fun/live/gun-dong-li-rollor-5.m3u8
@@ -2182,7 +2181,7 @@ atv,https://t.freetv.fun/live/atv-1.m3u8
 atv,https://t.freetv.fun/live/atv-2.m3u8
 atv,https://t.freetv.fun/live/atv-3.m3u8
 atv,https://t.freetv.fun/live/atv-4.m3u8
-[]atv,https://guineetvdirect.online:3320/live/atvguineelive.m3u8
+[]atv,https://t.freetv.fun/live/atv-5.m3u8
 []atv,https://t.freetv.fun/live/atv-6.m3u8
 haiti news channel,https://t.freetv.fun/live/haiti-news-channel.m3u8
 channel news asia,https://t.freetv.fun/live/channel-news-asia.m3u8
@@ -2512,7 +2511,7 @@ estrella tv,https://t.freetv.fun/live/estrella-tv-2.m3u8
 []azteca deportes premium,https://t.freetv.fun/live/azteca-deportes-premium-1.m3u8
 []azteca deportes network,https://t.freetv.fun/live/azteca-deportes-network-1.m3u8
 fox sports,https://t.freetv.fun/live/fox-sports.m3u8
-[]fox sports,https://t.freetv.fun/live/fox-sports-2.m3u8
+fox sports,https://t.freetv.fun/live/fox-sports-2.m3u8
 fox sports,https://t.freetv.fun/live/fox-sports-3.m3u8
 []fox sports,https://t.freetv.fun/live/fox-sports-4.m3u8
 []x sports,https://t.freetv.fun/live/x-sports.m3u8
@@ -3397,6 +3396,8 @@ HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
 武乡融媒体,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
 达茂综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550.m3u8
 元宝山电视,http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
+准格尔旗综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live173640226096016.m3u8
+乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
@@ -4091,6 +4092,8 @@ astroAod,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1?zanhd
 内蒙农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
 黑龙江新闻,https://stream1.freetv.fun/hei-long-jiang-xin-wen-9.m3u8
 七台河民生社教,http://yp.qqqtv.top/1/api.php?id=%E4%B8%83%E5%8F%B0%E6%B2%B3%E6%B0%91%E7%94%9F%E7%A4%BE%E6%95%99&auth=666858
@@ -4282,6 +4285,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 音乐广播,https://tv.iill.top/fm/552&token=18d1c387d427be148b32f27842c48c0a118c85e789664b986bfa64b09da442be
 音乐广播,https://tv.iill.top/fm/552&token=7ce15d51da8e60be86cc1bde4d856274b2bd781528e9f64ff1d7d9370b9d7268
 音乐广播,https://tv.iill.top/fm/552&token=8eb49dbdca153f1b269c3d18030c7d754f1ea8306af7b6503a4d10a766eeb388
+TV9 Nusantara (p),https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 无线卫星新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 美亚电影台HK,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
