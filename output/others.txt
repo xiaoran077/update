@@ -1,5 +1,5 @@
 ◆◆◆　https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-更新日期: 2026-5-20 09:07:23,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260520063650&Channel_ID=0116_2600037000-99000-200300220105652&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=113.6.228.101&SecurityKey=20260520063650&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.5.1-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d3e640909276a62e2eef39eb8bfe7ce4
+更新日期: 2026-5-20 12:03:06,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260520114932&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=117.157.226.220&SecurityKey=20260520114932&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=21f9c05ef7a8ad0bf12db916baf6523e&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1779248969542&prlId=4f89b0f1d885527a227fd4a636419cfe1779248969569&jid=4f89b0f1d885527a227fd4a636419cfe1779248967573V&is_advertise=0&sjid=subsession_1779249001672&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=accfcb53a44dd3890c7b71a2c2feee0c
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 广东影视,https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
 长沙县新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
@@ -86,7 +86,7 @@
 
 
 ◆◆◆　https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt
-2026-05-20 07:37:50,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
+2026-05-20 14:30:57,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
 淘,http://115.171.216.26:4000/rtp/225.1.8.211:8002
 淘,http://114.254.84.33:8888/rtp/239.3.1.249:8001
 淘,http://114.254.36.134:8888/rtp/239.3.1.249:8001
@@ -1769,13 +1769,19 @@ nbtv-2,https://t.freetv.fun/live/nbtv-2.m3u8
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he-2.m3u8
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he-3.m3u8
 []内江新闻,rtmp://njzb.scnj.tv:1938/live/xwzh_xwzh800
+内蒙古少儿,https://t.freetv.fun/live/nei-meng-gu-shao-er.m3u8
+内蒙古文体娱乐,https://t.freetv.fun/live/nei-meng-gu-wen-ti-yu-le.m3u8
+内蒙古新闻综合,https://t.freetv.fun/live/nei-meng-gu-xin-wen-zong-he.php
+内蒙古经济生活,https://t.freetv.fun/live/nei-meng-gu-jing-ji-sheng-huo.m3u8
 内蒙古蒙语文化,https://t.freetv.fun/live/nei-meng-gu-meng-yu-wen-hua.m3u8
 []内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-2.m3u8
 []内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-4.m3u8
 []内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-1.smil
 内蒙古卫视 ,https://t.freetv.fun/live/nei-meng-gu-wei-shi-biao-qing-1-1.m3u8
 内蒙古卫视 ,https://t.freetv.fun/live/nei-meng-gu-wei-shi-biao-qing-1.m3u8
+内蒙古农牧,https://t.freetv.fun/live/nei-meng-gu-nong-mu-1.m3u8
 内蒙农牧,https://t.freetv.fun/live/nei-meng-nong-mu.m3u8
+内蒙古农牧,https://t.freetv.fun/live/nei-meng-gu-nong-mu.php
 内蒙文体,https://t.freetv.fun/live/nei-meng-wen-ti.m3u8
 内黄新闻综合,https://t.freetv.fun/live/nei-huang-xin-wen-zong-he-pin-dao.m3u8
 内蒙新闻,https://t.freetv.fun/live/nei-meng-xin-wen.m3u8
@@ -1931,6 +1937,7 @@ nbtv-2,https://t.freetv.fun/live/nbtv-2.m3u8
 兴化新闻综合,https://t.freetv.fun/live/xing-hua-xin-wen-zong-he.php
 嘉善新闻综合,https://t.freetv.fun/live/jia-shan-xin-wen-zong-he.m3u8
 嘉禾新闻综合,https://t.freetv.fun/live/jia-he-xin-wen-zong-he.m3u8
+兴安新闻综合,https://t.freetv.fun/live/xing-an-xin-wen-zong-he.php
 四川公共乡村,https://t.freetv.fun/live/si-chuan-gong-gong-xiang-cun.m3u8
 四川妇女,https://t.freetv.fun/live/si-chuan-fu-nu.m3u8
 四川妇女,https://t.freetv.fun/live/si-chuan-fu-nu-1.m3u8
@@ -2411,6 +2418,7 @@ nbtv-2,https://t.freetv.fun/live/nbtv-2.m3u8
 汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-24.m3u8
 新闻综合,https://t.freetv.fun/live/xin-wen-zong-he-2.m3u8
 新闻综合,https://t.freetv.fun/live/xin-wen-zong-he-3.m3u8
+包头新闻综合,https://t.freetv.fun/live/bao-tou-xin-wen-zong-he.m3u8
 汕头经济,https://t.freetv.fun/live/shan-tou-jing-ji.m3u8
 汕头经济,https://t.freetv.fun/live/shan-tou-jing-ji-1.m3u8
 汕头经济,https://t.freetv.fun/live/shan-tou-jing-ji-2.m3u8
@@ -2561,6 +2569,8 @@ nbtv-2,https://t.freetv.fun/live/nbtv-2.m3u8
 浙江卫视超,https://t.freetv.fun/live/zhe-jiang-wei-shi-chao-gao-qing.m3u8
 []海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-21.m3u8
 海南卫视 ,https://t.freetv.fun/live/hai-nan-wei-shi-gao-qing-1.m3u8
+乌海新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546358166026
+乌海新闻综合,https://t.freetv.fun/live/wu-hai-xin-wen-zong-he-2.m3u8
 东海新闻综合,https://t.freetv.fun/live/dong-hai-xin-wen-zong-he.php
 海口综合,https://t.freetv.fun/live/hai-kou-zong-he.flv
 海绵宝宝宝,https://t.freetv.fun/live/hai-mian-bao-bao-bao.m3u8
@@ -14096,6 +14106,8 @@ CGTN英文记录,http://183.11.239.36:808/hls/77/index.m3u8
 武乡融媒体,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
 达茂综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550.m3u8
 元宝山电视,http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
+准格尔旗综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live173640226096016.m3u8
+乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
 辽宁公共,http://dassby.qqff.top:99/live/辽宁公共/index.m3u8
@@ -14954,6 +14966,8 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-4.ctv
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-8.m3u8
 内蒙农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
 黑龙江新闻,https://stream1.freetv.fun/hei-long-jiang-xin-wen-9.m3u8
 七台河民生社教,http://yp.qqqtv.top/1/api.php?id=%E4%B8%83%E5%8F%B0%E6%B2%B3%E6%B0%91%E7%94%9F%E7%A4%BE%E6%95%99&auth=666858
