@@ -2,24 +2,16 @@
 
 
 ◆◆◆　https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt
-2026-08-19 18:52:38,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
+2026-08-19 22:59:32,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
 淘,http://115.171.216.32:4000/rtp/225.1.8.211:8002
-淘,http://114.254.34.81:8888/rtp/239.3.1.249:8001
 淘,http://115.171.216.40:4000/rtp/225.1.8.211:8002
-淘,http://114.254.39.86:8888/rtp/239.3.1.249:8001
 淘,http://221.220.135.225:8012/rtp/239.3.1.249:8001
-睛彩广场舞,http://114.254.34.81:8888/rtp/239.3.1.128:8001
-睛彩广场舞,http://114.254.39.86:8888/rtp/239.3.1.128:8001
 睛彩广场舞,http://221.220.135.225:8012/rtp/239.3.1.128:8001
 华数,http://115.171.216.32:4000/rtp/225.1.8.80:2000
-华数,http://114.254.34.81:8888/rtp/239.3.1.236:2000
 华数,http://115.171.216.40:4000/rtp/225.1.8.80:2000
-华数,http://114.254.39.86:8888/rtp/239.3.1.236:2000
 华数,http://221.220.135.225:8012/rtp/239.3.1.236:2000
 华数动作影院,http://115.171.216.32:4000/rtp/225.1.8.252:4120
-华数动作影院,http://114.254.34.81:8888/rtp/239.3.1.92:4120
 华数动作影院,http://115.171.216.40:4000/rtp/225.1.8.252:4120
-华数动作影院,http://114.254.39.86:8888/rtp/239.3.1.92:4120
 华数动作影院,http://221.220.135.225:8012/rtp/239.3.1.92:4120
 
 
@@ -44,6 +36,7 @@ canal 26,https://t.freetv.fun/live/canal-26-1.m3u8
 telefe,https://t.freetv.fun/live/telefe.m3u8
 telemax,https://t.freetv.fun/live/telemax.m3u8
 telemax,https://t.freetv.fun/live/telemax-1.m3u8
+armenia 2,https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
 armenia 1,https://t.freetv.fun/live/armenia-1.m3u8
 usa armenia am,https://t.freetv.fun/live/usa-armenia-am.m3u8
 armenia 1,https://t.freetv.fun/live/armenia-1-1.m3u8
@@ -343,6 +336,7 @@ cctv22,https://t.freetv.fun/live/cctv22.m3u8
 []cctv4中文国际,https://t.freetv.fun/live/cctv4zhong-wen-guo-ji.m3u8
 []cctv4中文国际,https://t.freetv.fun/live/cctv4zhong-wen-guo-ji-1.m3u8
 []cctv4中文国际,https://t.freetv.fun/live/cctv4zhong-wen-guo-ji-2.m3u8
+cctv4中文国际,http://p.08top.top:8088/631780421
 []cctv-4 中文国际（亚）,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-ya.m3u8
 []cctv5,https://t.freetv.fun/live/cctv5-4.m3u8
 cctv52,https://t.freetv.fun/live/cctv52.m3u8
@@ -863,6 +857,7 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-5.m3u8
 []海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-2.m3u8
 []海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-4.m3u8
 []海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-15.m3u8
+乌海新闻综合,https://t.freetv.fun/live/wu-hai-xin-wen-zong-he.m3u8
 []深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-16.m3u8
 []深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-2.m3u8
 []深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-21.m3u8
@@ -1095,6 +1090,7 @@ haha tv,https://t.freetv.fun/live/haha-tv.m3u8
 []onda tv,https://t.freetv.fun/live/onda-tv-2.m3u8
 []abai tv,https://t.freetv.fun/live/abai-tv.m3u8
 []abai tv,https://t.freetv.fun/live/abai-tv-1.m3u8
+abai tv,https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 []sfera tv,https://t.freetv.fun/live/sfera-tv-1.m3u8
 one sports,https://t.freetv.fun/live/one-sports.m3u8
 []canal 4 esquel,https://t.freetv.fun/live/canal-4-esquel.m3u8
@@ -1952,6 +1948,7 @@ amedia 2,https://t.freetv.fun/live/amedia-2-4.php
 вопросы и ответы,https://t.freetv.fun/live/voprosy-i-otvety-1.php
 дождь,https://t.freetv.fun/live/dozhd.php
 дождь,https://t.freetv.fun/live/dozhd-1.php
+дождь,https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 дом кино премиум,https://t.freetv.fun/live/dom-kino-premium.php
 []дом кино премиум,https://t.freetv.fun/live/dom-kino-premium-1.m3u8
 дом кино премиум,https://t.freetv.fun/live/dom-kino-premium-2.php
@@ -2092,6 +2089,7 @@ amedia 2,https://t.freetv.fun/live/amedia-2-4.php
 []первый канал,https://t.freetv.fun/live/pervyi-kanal-6.m3u8
 первый канал,https://t.freetv.fun/live/pervyi-kanal-7.php
 []первый канал,https://t.freetv.fun/live/pervyi-kanal-8.m3u8
+[]первый канал европа,https://streaming.thestream.cyou/live/210.m3u8
 []перец,https://t.freetv.fun/live/perets.m3u8
 []живая планета,https://t.freetv.fun/live/zhivaia-planeta.m3u8
 []тнв-планета,https://t.freetv.fun/live/tnv-planeta.m3u8
@@ -3461,6 +3459,8 @@ CGTN英文记录,http://183.11.239.36:808/hls/77/index.m3u8
 武乡融媒体,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
 达茂综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550.m3u8
 元宝山电视,http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
+准格尔旗综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live173640226096016.m3u8
+乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
@@ -3847,17 +3847,17 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
 
 ◆◆◆　https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
-新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=1e9ad160a2ac554282fbf8c467610626&wsTime=1787162402
-都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=9a52d964afdab7b63c3a8df8bf7dc962&wsTime=1787162402
-民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=1c1ee4a70fc5ef87f7e6c7ee78c29797&wsTime=1787162402
-法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=23500adc98aaabda2ed31e9be5017d0f&wsTime=1787162402
-公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=7cce661660e0c84860271783db50e861&wsTime=1787162402
-河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=1bd10d6f64a22a00d0927a24699cc153&wsTime=1787162402
-电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=68200f5358f475404afc50c2bd5849d9&wsTime=1787162402
-武术,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=993f5889c0adddb5aec47eb7f1d77a82&wsTime=1787162402
-睛彩中原,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=05f5f0229929f39b33cab355fc0cef46&wsTime=1787162402
-国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=0eead0ed0513430c87240c04a70dbe35&wsTime=1787162402
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=34c597351fa8f90dee19df875dfd9d7e&wsTime=1787162402
+新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=e7ca5626d430f3abc5d69b87c062846e&wsTime=1787166013
+都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=8abb99a97b54d99f3e10249463e0462e&wsTime=1787166013
+民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=5975467757b6d420da88f47af97bfba7&wsTime=1787166013
+法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=3b802b950ccadb7d1391e489c65a1be3&wsTime=1787166013
+公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=79dd4efccb16981c5b7d81cc0217f26c&wsTime=1787166013
+河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=d4d7ea89506469886bcf3f4ec1100669&wsTime=1787166013
+电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=d86f761b574ff7d837aa789f4c873af9&wsTime=1787166013
+武术,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=83ef0b1a28d5a96afa5f8e68d14c7adb&wsTime=1787166013
+睛彩中原,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=18b5a7a882661b8606e2988bd11da5b0&wsTime=1787166013
+国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=49b1e78821443362e2351a2de9186d57&wsTime=1787166013
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=e48096246f7872c43f91b77ea3baa7b7&wsTime=1787166013
 北京卫视超,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 北京卫视超,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 中国农林卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zgnlws/50/20250804/index.m3u8?msisdn=2026081922010518c7b21ea11a4348aad3569f3c987426&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20260819220105&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=218.28.233.106&SecurityKey=20260819220105&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=ZQ-A1-9.8.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d52fb58b924163fe4028fe1c2eeea1f9
@@ -4020,6 +4020,8 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-4.ctv
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-8.m3u8
 内蒙农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
 黑龙江新闻,https://stream1.freetv.fun/hei-long-jiang-xin-wen-9.m3u8
 七台河民生社教,http://yp.qqqtv.top/1/api.php?id=%E4%B8%83%E5%8F%B0%E6%B2%B3%E6%B0%91%E7%94%9F%E7%A4%BE%E6%95%99&auth=666858
@@ -4127,6 +4129,7 @@ CGTN-阿拉伯语,https://arabic-liveali.CGTN.com/hls/LSveq57bErWLinBnxosqjisZ22
 ◆◆◆　https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/assets/subscribe/source/b/favorite/%E8%B1%A1%E6%A3%8B%E5%85%A5%E9%97%A8.txt
 华数卡通,http://221.220.133.38:8012/rtp/239.3.1.80:4120
 SiTV乐游,http://171.119.205.203:6000/rtp/226.0.2.77:8528
+SiTV乐游,http://124.112.189.92:4022/rtp/238.1.78.151:7080
 SiTV乐游,http://171.8.170.140:8800/rtp/239.16.20.111:11110
 20260815 18:14:52,https://vd3.bdstatic.com/mda-nkpqf4rt7zt45u17/720p/h264/1669310324025468874/mda-nkpqf4rt7zt45u17.mp4?pd=19&vt=1
 👨潇然,https://vd3.bdstatic.com/mda-qeg9xcvhg005sei3/sc/cae_h264/1715931290642021239/mda-qeg9xcvhg005sei3.mp4?pd=19&vt=1
